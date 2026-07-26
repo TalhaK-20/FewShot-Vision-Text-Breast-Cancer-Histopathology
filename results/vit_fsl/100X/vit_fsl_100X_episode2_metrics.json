@@ -1,0 +1,28 @@
+{
+  "accuracy": 0.6444814198557959,
+  "balanced_accuracy": 0.6205390433578353,
+  "precision_macro": 0.596375917570902,
+  "recall_macro": 0.6205390433578353,
+  "f1_macro": 0.5943198894432251,
+  "f1_weighted": 0.6638656074757957,
+  "mcc": 0.21556494062560472,
+  "cohen_kappa": 0.20538228141572124,
+  "roc_auc": 0.6864409515416228,
+  "sensitivity": 0.6696495152870992,
+  "specificity": 0.5714285714285714,
+  "avg_precision": 0.8534943434018101,
+  "accuracy_ci95": [
+    0.6217415418746534,
+    0.6655574043261231
+  ],
+  "roc_auc_ci95": [
+    0.6560754736000566,
+    0.7137784662933946
+  ],
+  "majority_class_baseline": 0.7437603993344426,
+  "test_only_accuracy": 0.6524064171122995,
+  "test_only_balanced_accuracy": 0.6328088740369442,
+  "test_only_f1_macro": 0.6144601666989726,
+  "test_only_roc_auc": 0.7089792382190043,
+  "test_only_majority_class_baseline": 0.7112299465240641
+}
